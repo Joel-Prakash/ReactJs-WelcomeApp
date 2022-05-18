@@ -1,0 +1,33 @@
+div {
+  height: 70vh;
+  width: 50vw;
+  background-color: #1e293b;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: #f0bb03;
+  font-size: 45px;
+  font-family: Bree Serif;
+}
+
+p {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: Bree Serif;
+}
+
+button {
+  font-family: Bree Serif;
+  color: #1e293b;
+  background-color: #ffffff;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 14px;
+  padding-right: 14px;
+  border-radius: 5px;
+  border-style: none;
+}
